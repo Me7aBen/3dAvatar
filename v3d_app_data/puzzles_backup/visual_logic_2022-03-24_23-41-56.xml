@@ -1,0 +1,22 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="362" scrolly="702.5" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="362" scrolly="702.5" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="zoomCameraToObject" id=".BYT4/4XAU*CX1XBr@JO" x="-390" y="-470">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+      <value name="OBJECT">
+        <shadow type="objectList" id="*-C}r1fT5T$Fl8;p3#E_">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="objectList" id="p%2B4*BA#I.s:/=bla0z">
+          <field name="FIELDNAME">el_benjas</field>
+        </block>
+      </value>
+      <value name="DURATION">
+        <shadow type="math_number" id="Qr~?/,iJD|!m08km0H:_">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="522" viewport-y="28" viewport-w="360" viewport-h="740.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
